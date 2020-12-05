@@ -7,6 +7,23 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="驱动包">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/build/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/demo/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/generated/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/legacy/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/main/core-api/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/main/core-impl/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/main/protocol-impl/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/main/user-api/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/main/user-impl/java" />
+          <root url="jar://$MODULE_DIR$/../../work/驱动包/mysql-connector-java-8.0.22.zip!/mysql-connector-java-8.0.22/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
-
