@@ -25,7 +25,6 @@ class Stack {
     public Stack(int maxsize){
         Maxsize = maxsize ;
         stack = new int[maxsize];
-
     }
 //是否空栈
     public boolean isFull(){
@@ -41,7 +40,6 @@ class Stack {
         if(isFull()){
             return;
         }
-
         top++;
         stack[top]=a;
     }
