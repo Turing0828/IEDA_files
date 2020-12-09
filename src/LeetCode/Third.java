@@ -1,10 +1,8 @@
 package LeetCode;
-
 import java.util.Stack;
-
 /**
  * @ClassName: Third
- * @Description: 用两个栈来模拟队列
+ * @Description:    用两个栈来模拟队列
  * @author: h_xy
  * @date: 2020/12/7  19:57
  */
