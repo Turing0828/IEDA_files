@@ -1,5 +1,4 @@
 package LeetCode;
-
 /**
  * @ClassName: Six
  * @Description:  下一个更大的元素

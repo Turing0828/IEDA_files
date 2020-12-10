@@ -1,7 +1,5 @@
 package LeetCode;
-
 import java.util.Scanner;
-
 /**
  * @ClassName: Five
  * @Description: 求最短路径
@@ -28,7 +26,7 @@ public class Five {
         //整合
         for(int i=1;i<m;i++)
             for(int j=1;j<n;j++){
-                row[i][j] = row[i-1][j] +row[i][j-1];
+                row[i][j] = row[i-1][j] +row[i][j-1] ;
             }
         System.out.println(row[m-1][n-1]);
     }
